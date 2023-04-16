@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 paginate = "5"
-title = 'Techbytes'
+title = 'Passing Arguments'
 theme = 'mainroad'
 summaryLength = 20
 
@@ -9,8 +9,8 @@ summaryLength = 20
   name = "Jacques Navarro"
 
 [Params]
-
-tags = ["Java"]
+  dateformat = "02-jan-2006"
+  tags = ["Java"]
 
 [Params.style.vars]
   highlightColor = "#2de2d6"
